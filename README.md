@@ -10,7 +10,7 @@
 
 
 ## 🌐 Connect with me:
-[!Email( https://img.shields.io/twitter/url?label=Email&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fgmail.com)]
+[!Email]( https://img.shields.io/twitter/url?label=Email&logo=gmail&style=for-the-badge&url=https%3A%2F%2Fgmail.com)
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-yedro/)
 
 
