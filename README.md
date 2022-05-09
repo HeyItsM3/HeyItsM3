@@ -27,13 +27,12 @@
  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HeyItsM3&theme=algolia&hide_border=false&include_all_commits=false&count_private=false&layout=compact)">
 </div>
 
-[![Aldo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HeyItsM3&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
 ---
-
+[![](https://visitcount.itsvg.in/api?id=HeyItsM3&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
 **HeyItsM3/HeyItsM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
