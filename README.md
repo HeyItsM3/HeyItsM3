@@ -35,11 +35,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=HeyItsM3&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/HeyItsM3/HeyItsM3/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
 <!--
 **HeyItsM3/HeyItsM3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
