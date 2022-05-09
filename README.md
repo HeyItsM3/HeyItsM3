@@ -31,6 +31,7 @@
 # 🏆GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=HeyItsM3&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
+
 ---
 [![](https://visitcount.itsvg.in/api?id=HeyItsM3&icon=0&color=0)](https://visitcount.itsvg.in)
 <!--
@@ -47,3 +48,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ ![Snake animation](https://github.com/HeyItsM3/HeyItsM3/blob/output/github-contribution-grid-snake.svg)
