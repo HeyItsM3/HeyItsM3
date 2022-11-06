@@ -15,7 +15,7 @@
 
 ## 💼 PROJECTS:
 
-- Food's App: https://foods-app.vercel.app/
+- Food's App: https://foods-app.vercel.app/ [React - Redux - Express - PostgreSQL - Sequelize]
 
 
 # 💻Tech Stack
