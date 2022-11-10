@@ -16,7 +16,7 @@
 ## 💼 PROJECTS:
 
 - Food's App: https://foods-app.vercel.app/   [React - Redux - Express - PostgreSQL - Sequelize]
-- Round-Mon: https://round-mon-three.vercel.app/   [Next.js - React - TypeScript - Prisma - tRPC - PlanetScale - MySQL - Tailwind - Vercel]
+- Better-Mon: https://better-mon-git-master-heyitsm3.vercel.app/   [Next.js - React - TypeScript - Prisma - tRPC - PlanetScale - MySQL - Tailwind - Vercel]
 
 
 # 💻Tech Stack
