@@ -13,7 +13,9 @@
 
 [![LinkedIn](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aldo-yedro/)
 
+
 ## 💼 PROJECTS:
+- Portfolio: https://www.aldoyedro.com/  [React - Gatsby - Express - GraphQL - Styled Components ] 📫
 
 - Food's App: https://foods-app.vercel.app/   [React - Redux - Express - PostgreSQL - Sequelize] 
 
