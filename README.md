@@ -2,11 +2,10 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 # 💫 About Me :
-🌱 I'm currently developing my full-stack developer skills.
 
 🔭 Open to learn and help in this programming journey.
 
-🔎 I’m looking for a job where I can develop soft and hard skills.
+🔎 I am looking for a job where I can challenge my skills.
 
 
 ## 🌐 Connect with me:
