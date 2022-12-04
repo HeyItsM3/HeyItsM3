@@ -18,7 +18,7 @@
 
 - Food's App: https://foods-app.vercel.app/   [React - Redux - Express - PostgreSQL - Sequelize] 
 
-- Spotify Profile: https://profile-spotify-app.herokuapp.com/ [Spotify API - React - Router - Styled Components -Node.js - Express] 
+- Spotify Profile: https://web-production-b4af.up.railway.app/ [Spotify API - React - Router - Styled Components -Node.js - Express] 
 
 - Better-Mon: https://better-mon-git-master-heyitsm3.vercel.app/   [Next.js - React - TypeScript - Prisma - tRPC - PlanetScale - MySQL - Tailwind - Vercel]
 
