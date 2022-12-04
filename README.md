@@ -22,7 +22,7 @@
 
 - Better-Mon: https://better-mon-git-master-heyitsm3.vercel.app/   [Next.js - React - TypeScript - Prisma - tRPC - PlanetScale - MySQL - Tailwind - Vercel]
 
-- Draw live app:  https://draw-app-a.herokuapp.com/ [Socket.js - Javascript - HTML]
+- Draw live app:  https://drawing-app-production.up.railway.app/ [Socket.js - Javascript - HTML]
 
 
 # 💻Tech Stack
