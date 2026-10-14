@@ -15,7 +15,7 @@
 
 ## 💼 PROJECTS:
 - Portfolio: https://www.aldoyedro.com/  [React - Gatsby - Express - GraphQL - Styled Components ] 📫
-
+<!--
 - Food's App: https://foods-app.vercel.app/   [React - Redux - Express - PostgreSQL - Sequelize] 
 
 - Spotify Profile: https://web-production-b4af.up.railway.app/ [Spotify API - React - Router - Styled Components -Node.js - Express] 
@@ -23,6 +23,7 @@
 - Better-Mon: https://better-mon-git-master-heyitsm3.vercel.app/   [Next.js - React - TypeScript - Prisma - tRPC - PlanetScale - MySQL - Tailwind - Vercel]
 
 - Draw live app:  https://drawing-app-production.up.railway.app/ [Socket.js - Javascript - HTML]
+-->
 
 
 # 💻Tech Stack
