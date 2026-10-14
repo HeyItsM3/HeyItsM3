@@ -5,8 +5,6 @@
 
 🔭 Open to learn and help in this programming journey.
 
-🔎 I am looking for a job where I can challenge my skills.
-
 
 ## 🌐 Connect with me:
 
